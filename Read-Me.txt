@@ -1,0 +1,18 @@
+Steps to predict crop's disease:
+
+Scroll down the website till you see Predict the crop health tab.
+
+click on predict now.
+
+upload the diseases crop's leaf.
+
+The model will load and display the result.
+
+
+DEMO VIDEO LINK:
+
+https://drive.google.com/file/d/1R8qHaojgW8IAOQBBPjlHRhXIKikgFX3F/view?usp=sharing
+
+GITHUB REPOSITORY LINK:
+
+https://github.com/hritik2000-github/AgroDoc
